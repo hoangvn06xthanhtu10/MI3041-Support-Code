@@ -13,3 +13,6 @@ Hệ thống tính toán Hybrid lai giữa SymPy (Symbolic) và NumPy/Math (Nume
 1. Đảm bảo máy tính đã cài đặt các thư viện cần thiết:
    ```bash
    pip install numpy sympy
+## Thông tin phiên bản
+* ** Current Version: v1.0.0(240326)
+* ** Dự kiến bản cập nhật tiếp theo: v1.0.1(310326)
